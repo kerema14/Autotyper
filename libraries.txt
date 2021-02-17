@@ -1,5 +1,0 @@
-pip install keyboard
-pip install pyscreenshot
-pip install pyautogui
-pip install pytesseract
-just copy and paste :>
